@@ -1,11 +1,11 @@
 {
-  "name": "opensdks/omnikassa2-sdk",
+  "name": "squarecow/omnikassa2-sdk",
   "description": "Rabobank OmniKassa SDK",
   "license": "proprietary",
   "minimum-stability": "dev",
   "require": {
     "php": ">= 5.4",
-    "netresearch/jsonmapper": "^0.11.0",
+    "netresearch/jsonmapper": ">4.0.0",
     "guzzlehttp/guzzle": "5.3.1|^6.3.0|^7.0"
   },
   "require-dev": {
